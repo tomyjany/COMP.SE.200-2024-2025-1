@@ -12,3 +12,28 @@
   "dependencies": {},
   "devDependencies": {}
 }
+
+{
+    "name": "software-testing-assignment",
+    "version": "Student Version",
+    "description": "Practical 1 material",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "mocha",
+        "coverage": "c8 mocha"
+    },
+    "author": {
+        "name": "UTV"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "c8": "^10.1.3",
+        "chai": "^6.0.1",
+        "mocha": "^11.7.2",
+        "sinon": "^21.0.0"
+    },
+    "dependencies": {
+        "mathjs": "^14.7.0"
+    }
+}
