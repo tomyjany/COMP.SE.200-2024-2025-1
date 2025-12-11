@@ -1,6 +1,6 @@
 {
     "name": "software-testing-assignment",
-    "version": "Student Version",
+    "version": "1.0.0",
     "description": "Practical 1 material",
     "main": "index.js",
     "type": "module",
@@ -9,7 +9,6 @@
         "test": "c8 mocha",
         "coverage": "c8 mocha --reporter=lcov --reporter=spec",
         "test-coveralls": "npm test && shx cat ./coverage/lcov.info | node .bin/coveralls.js"
-
     },
     "author": {
         "name": "UTV"
@@ -21,7 +20,7 @@
         "mocha": "^11.7.2",
         "sinon": "^21.0.0",
         "coveralls": "^3.1.1",
-        "mocha-lcov-reporter": "^1.0.2",
+        "mocha-lcov-reporter": "^1.0.2"
     },
     "dependencies": {
         "mathjs": "^14.7.0"
