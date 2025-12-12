@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/tomyjany/COMP.SE.200-2024-2025-1/badge.svg?branch=tests)](https://coveralls.io/github/tomyjany/COMP.SE.200-2024-2025-1?branch=tests)
+[![Coverage Status](https://coveralls.io/repos/github/tomyjany/COMP.SE.200-2024-2025-1/badge.svg?branch=main)](https://coveralls.io/github/tomyjany/COMP.SE.200-2024-2025-1?branch=main)
 # Student template
 
 ## Purpose of this repository
